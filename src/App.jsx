@@ -13,8 +13,8 @@ function App() {
     <div>
       <h1>StyledComponents</h1>
       <StyledComponents />
-      {/* <h1>PropsComponents</h1>
-      <PropsComponents /> */}
+      <h1>PropsComponents</h1>
+      <PropsComponents />
       <h1>UserPoropsComponents</h1>
       <StyledDiv dark={false} />
       <StyledDiv dark={true} />
